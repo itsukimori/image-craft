@@ -1,0 +1,21 @@
+.title-text {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 70px;
+}
+.text-image {
+  width: 100%;
+  max-width: 800px;
+  min-width: 300px;
+  font-weight: bold;
+  line-height: 1.2;
+  color: rgba(0,0,0,0);
+  -webkit-background-clip: text;
+   background-image: url(../public/2\ ABSTRACT\ 3D\ by\ freeject.net.jpg);
+  background-size: contain;
+}
+.imageDisplay {
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
